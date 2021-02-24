@@ -7,6 +7,6 @@
       "ms-python.python"
     ],
     "settings": {
-      "editor.tabSize": 4,
-    },
+      "editor.tabSize": 4
+    }
 }
